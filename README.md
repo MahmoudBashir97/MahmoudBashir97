@@ -16,3 +16,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBashir97&hide=javascript,css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+{
+  label: 'build',  // (Optional) Badge label
+  message: 'passed',  // (Required) Badge message
+  labelColor: '#555',  // (Optional) Label color
+  color: '#4c1',  // (Optional) Message color
+
+  // (Optional) One of: 'plastic', 'flat', 'flat-square', 'for-the-badge' or 'social'
+  // Each offers a different visual design.
+  style: 'flat',
+}
