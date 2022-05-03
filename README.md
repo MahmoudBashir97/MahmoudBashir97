@@ -10,7 +10,10 @@
 - You can also visit my Linkedin profile : https://www.linkedin.com/in/mahmoud-bashir-070553146
 
 ## Skils & Experience
-* 
+*
+
+<img alt=”Android” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB"/>
+                                                                                                                          
 <!---
 MahmoudBashir97/MahmoudBashir97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
