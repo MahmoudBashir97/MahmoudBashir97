@@ -1,4 +1,4 @@
-👋 ## Hi There,
+## 👋 Hi There,
 
 ![android_banner](https://user-images.githubusercontent.com/45299156/166454578-d1a648ed-eb23-4741-89de-ffc61fc2a669.png)
 
