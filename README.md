@@ -9,22 +9,9 @@
 - 📫 How to reach me ? you can contact me on my email : Mahmoudbashir830@gmail.com , or on whatsapp : +201558440959
 - You can also visit my Linkedin profile : https://www.linkedin.com/in/mahmoud-bashir-070553146
 
-## Skils & Experience
-*
+<!-- ## Skils & Experience
+* -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudBashir97&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBashir97&hide=javascript,css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-{
-  label: 'build',  // (Optional) Badge label
-  message: 'passed',  // (Required) Badge message
-  labelColor: '#555',  // (Optional) Label color
-  color: '#4c1',  // (Optional) Message color
-
-  // (Optional) One of: 'plastic', 'flat', 'flat-square', 'for-the-badge' or 'social'
-  // Each offers a different visual design.
-  style: 'flat',
-}
