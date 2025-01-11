@@ -4,7 +4,7 @@
 
 ## About me -
 
-- 👀 I’m an Android Developer , with +4 years of experience , have Bachelor's degree in computer science IT-department
+- 👀 I’m a Sr.Android Developer , with 5 years of experience , have Bachelor's degree in computer science IT-department
 - 💞️ I’m looking for a job opportunity as a Sr.Android Developer 
 - 📫 How to reach me ? you can contact me on my email : Mahmoudbashir1997@gmail.com , or on whatsapp : +201558440959
 - You can also visit my Linkedin profile : https://www.linkedin.com/in/mahmoud-bashir-070553146
